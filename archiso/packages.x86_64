@@ -266,7 +266,7 @@ imagemagick
 #inkscape
 #libreoffice-fresh
 #lshw
-#meld
+meld
 #micro
 #nitrogen
 numlockx
@@ -432,7 +432,7 @@ ttf-ms-fonts
 #numix-circle-icon-theme-git
 #paper-icon-theme
 #sardi-icons
-#surfn-icons-git
+surfn-icons-git
 #surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
@@ -470,8 +470,8 @@ python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
-#sublime-text-4
-#the_platinum_searcher-bin
+sublime-text-4
+the_platinum_searcher-bin
 the_silver_searcher
 #trizen
 urxvt-fullscreen
@@ -657,7 +657,7 @@ arcolinux-config-all-desktops-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-arcolinux-dconf-all-desktops-git
+#arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-berry-dconf-git
 #arcolinux-bspwm-dconf-git
@@ -802,7 +802,7 @@ arcolinux-sddm-simplicity-git
 #                         PICOM OR COMPTON
 ###########################################################################
 
-picom
+#picom
 
 ###########################################################################
 #                         GENERAL DESKTOP RELATED
@@ -918,51 +918,51 @@ thunar-archive-plugin
 #                                ISO SPECIFIC
 ###########################################################################
 
-
-#wlogout
-#wlprop
-#wlr-randr
-#wlroots
+a-candy-beauty-icon-theme-git
+arcob-calamares-config-wayfire-git
+arcolinux-wayfire-dconf-git
 arcolinux-foot-git
 arcolinux-kitty-git
+arcolinux-rofi-git
+arcolinux-rofi-themes-git
+arcolinux-wayfire-git
+arcolinux-wayfire-profile-git
 arcolinux-wayland-app-hooks-git
-azote
+arcolinux-xfce-git
+autotiling
 bashtop
-cava
 clipman
 dconf-editor
+dex
+feh
 foot
 grim
-#hyprland-dev
-#hyprland-git
-#hyprpicker-git
 kitty
 lf
 mako
 micro
 mpv
+nomacs-qt6-git
 pamixer
-rofi-lbonn-wayland-only-git
+polkit-gnome
+#rofi
+rofi-lbonn-wayland
 slurp
 swaybg
 swayidle
 swaylock
+swww
 ttf-jetbrains-mono-nerd
 tty-clock
-#waybar-hyprland-git
 waybar
-wf-recorder-git
-wl-clipboard
-wlr-randr
-wofi
-xdg-desktop-portal-hyprland
-#xdg-desktop-portal-gtk
-nomacs-qt6-git
-nerd-fonts-source-code-pro
-arcolinux-wayfire-profile-git
 wayfire
-wcm
-wf-shell
 wf-config
-arcolinux-wayfire-git
-arcob-calamares-config-wayfire-git
+wf-recorder-git
+wf-shell
+wl-clipboard
+wlogout
+wlr-randr
+wlroots
+wofi
+xdg-desktop-portal
+xdg-desktop-portal-wlr

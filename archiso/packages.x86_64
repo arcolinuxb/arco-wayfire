@@ -936,6 +936,7 @@ dconf-editor
 dex
 feh
 foot
+gammastep
 grim
 kitty
 lf
@@ -955,15 +956,25 @@ swww
 ttf-jetbrains-mono-nerd
 tty-clock
 waybar
-wayfire
-wcm
-wf-config
 wf-recorder-git
-wf-shell
 wl-clipboard
 wlogout
 wlr-randr
-wlroots
 wofi
 xdg-desktop-portal
 xdg-desktop-portal-wlr
+arcolinux-wallpapers-wayfire-git
+
+# normal packages
+#wayfire
+#wcm
+#wf-config
+#wf-shell
+#wlroots
+
+# git packages
+wayfire-git
+wayfire-plugins-extra-git
+wcm-git
+wf-kill-git
+wf-shell-git

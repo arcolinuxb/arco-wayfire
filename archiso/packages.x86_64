@@ -944,7 +944,6 @@ arcolinux-powermenu-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-wallpapers-wayfire-git
-arcolinux-wayfire-git
 arcolinux-wayland-app-hooks-git
 arcolinux-xfce-git
 
@@ -984,7 +983,8 @@ wofi
 xdg-desktop-portal
 xdg-desktop-portal-wlr
 
-## wayfire 
+## wayfire
+arcolinux-wayfire-git
 wayfire-git
 wayfire-plugins-extra-git
 wcm-git
@@ -1001,3 +1001,11 @@ libliftoff
 ## hyprland
 #hyprland-git
 #waybar-hyprland-git
+
+## newm
+#newm-atha-git
+#sxhkd
+#ttf-jetbrains-mono-nerd
+
+## chaotics-aur
+#canta-icon-theme-git

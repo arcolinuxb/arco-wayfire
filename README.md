@@ -1,4 +1,8 @@
-# ArcoLinux BYOI wayfire desktop
+<p align="center">
+ <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
+</p>
+
+# ArcoLinux BYOI Wayfire desktop
 
 # Get your code to build your own iso
 

@@ -40,7 +40,7 @@ echo
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	# If you want to add packages from the chaotics-aur repo then
-	# then change the variable to true and add the package names
+	# change the variable to true and add the package names
 	# that are hosted on chaotics-aur in the packages.x86_64 at the bottom
 
 	chaoticsrepo=false

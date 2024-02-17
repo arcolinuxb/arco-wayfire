@@ -14,16 +14,21 @@ https://arcolinuxb.com
 
 # Websites
 
-Information : https://arcolinux.info
+Information about ArcoLinux : https://arcolinux.info
 
-Tutorials about ArcoLinux iso (Xfce, Openbox and i3) : https://arcolinux.com
+Tutorials about Linux : https://arcolinux.com
 
-Tutorials about ArcoLinuxD iso (any desktop) : https://arcolinuxd.com
+Tutorials about ArcoLinuxD iso (D=desktop - any desktop) : https://arcolinuxd.com
 
-Tutorials how to build your own iso : https://arcolinuxb.com
+Tutorials how to build your own iso on ArcoLinux iso : https://arcolinuxb.com
+
+Tutorials how to build your iso from scratch : https://arcolinuxiso.com
+
+Alci - Arch Linux and the Calamares installer : https://alci.online
+
+Ariser - Pure arch - installed with scripts : https://ariser.eu
 
 Forum : https://arcolinuxforum.com
-
 
 # Social Media
 

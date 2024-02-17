@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
+ <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxws.png">
 </p>
 
 # ArcoLinux BYOI Wayfire desktop

@@ -51,3 +51,11 @@ Mastodon Page : https://mastodon.social/@arcolinux
 Mewe Group : https://mewe.com/group/5bbc4577a40f3002b313671d
 
 Mewe ArcoLinux : https://mewe.com/profile/5bc022ac70fb13619f97af90
+
+Matrix:
+
+https://matrix.to/#/#official-arcolinux-news:matrix.org
+
+https://matrix.to/#/#official-arcolinux-general-support:matrix.org
+
+https://matrix.to/#/!jUDkosOsuDbGWNzKYl:matrix.org?via=matrix.org&via=envs.net&via=privacytools.io

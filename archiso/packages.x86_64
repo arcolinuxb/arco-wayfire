@@ -303,7 +303,7 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 arc-gtk-theme
 #arc-darkest-theme-git
-#kvantum-qt5-git
+kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
@@ -362,7 +362,7 @@ polkit-gnome
 #python2-dbus
 #python2-xdg
 #qt4
-#qt5ct
+qt5ct
 #qt5-styleplugins
 #qt5-tools
 #qt5-webkit
@@ -440,7 +440,7 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-#appstream-qt5
+appstream-qt5
 #archiso
 conky-lua-archers
 downgrade
@@ -514,7 +514,7 @@ arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-hblock-git
 #arcolinux-hyprland-profile-git
 arcolinux-keyring
-#arcolinux-kvantum-git
+arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
 arcolinux-local-applications-git
@@ -541,7 +541,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
 #arcolinux-polybar-git
-#arcolinux-qt5-git
+arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
@@ -974,8 +974,7 @@ swayidle
 swaylock
 swww
 ttf-jetbrains-mono-nerd
-waybar
-waycheck
+waybar-git
 waycheck
 wf-recorder-git
 wl-clipboard
@@ -995,14 +994,13 @@ wf-shell-git
 libliftoff
 
 ## sway
-#sway-git
+#sway
 #wlroots-git
 #swaybg-git
 #wlprop
 
 ## hyprland
 #hyprland-git
-#waybar-hyprland-git
 
 ## newm
 #newm-atha-git
